@@ -1,6 +1,6 @@
 # AgendeColore
 
-> Foi desenvolvido também o **backend AgendeColore**. Se quiser olhar como ficou [clique aqui](#).
+> Foi desenvolvido também o **backend AgendeColore**. Se quiser olhar como ficou.
 
 Este front end traz todas as principais funcionalidades de um sistema de agendamento de serviços de pintura, permitindo a interação com uma API REST para gerenciar os compromissos. Este sistema foi feito como trabalho final da disciplina de Desenvolvimento de Plataformas Web.
 
@@ -26,21 +26,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
-A aplicação consome uma API. Para o funcionamento correto, instale e configure a API primeiro. [Clique aqui para o passo a passo](#).
+A aplicação consome uma API. Para o funcionamento correto, instale e configure a API primeiro.
 
 Clone o projeto e depois de baixado entre na raiz do projeto e execute:
-
-```bash
-npm install
-Como falado anteriormente, você precisa rodar o backend feito para essa aplicação para o funcionamento correto. Defina um arquivo .env.local na raiz do projeto e copie todas as variáveis do .env.local.example.
-
-makefile
-Copiar código
-VITE_API_URL="Defina a URL do backend local aqui"
-Feito isso, execute o comando na raiz:
-
-bash
-Copiar código
-npm run dev
-Se tudo estiver certo, o front end irá iniciar 🚀.
-
